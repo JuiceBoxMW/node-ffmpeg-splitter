@@ -1,10 +1,9 @@
 {
   "name": "ffmpeg",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "license": "MIT",
   "dependencies": {
-    "ffmpeg": "^0.0.4",
     "fluent-ffmpeg": "^2.1.2"
   }
 }
